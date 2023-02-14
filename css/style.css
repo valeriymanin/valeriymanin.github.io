@@ -1,0 +1,40 @@
+.header{
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 40px;
+    text-transform: uppercase;
+    color: black;
+    width: 406px;
+    flex: none;
+    order: 0;
+}
+
+a{
+    font-family: Rubik;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 34px;
+    color:#535658;
+    text-decoration: none;
+    border-bottom:#BCBCBC
+}
+
+scrollbar{
+    overflow-x: scroll;
+    position: absolute;
+    width: 9px;
+    height: 19px;
+    left: 14px;
+    top: 11px;
+    border: 2px solid #000000;
+}    
+
+btn.data{
+    color:#F1D264;
+    fill: solid;
+    height: 50px;
+    width: 174px;
+    border-radius: 5px;
+}
